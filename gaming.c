@@ -42,5 +42,5 @@ void guess_num(){
 }
 
 void main(){
-   // guess_num();
+   guess_num();
 }
